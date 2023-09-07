@@ -1,4 +1,4 @@
-# Music-Recommendation-using-Language-Model
+# Music-Recommendation-System
 
 ### Sophisticated Recommendation System:
 Designed and implemented a two-staged implicit feedback system for optimizing next-track music recommendations. This approach ensured a comprehensive and personalized music recommendation experience.
